@@ -1,5 +1,5 @@
 # tf_notebook
-Predict a regression model by random sampling data.
+Machine learning with Tensorflow.
 
 ## Pre-requisites
 1. Download [anaconda](https://www.anaconda.com/download/).
